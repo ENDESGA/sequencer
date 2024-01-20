@@ -1,3 +1,0 @@
-C:/PROJECTS/sequencer/out/CMakeFiles/sequencer.dir
-C:/PROJECTS/sequencer/out/CMakeFiles/edit_cache.dir
-C:/PROJECTS/sequencer/out/CMakeFiles/rebuild_cache.dir
