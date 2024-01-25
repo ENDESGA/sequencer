@@ -7,7 +7,7 @@ set(CMAKE_C_STANDARD 99)
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -march=native")
 
 set(PROJECT_NAME "sequencer" CACHE STRING "PROJECT_NAME")
-set(SOURCES  "inc/SDL3/SDL2_gfxPrimitives.c" "src/main.c" CACHE STRING "SOURCES")
+set(SOURCES "src/main.c" CACHE STRING "SOURCES")
 set(INCLUDE "inc/")
 
 project(${PROJECT_NAME} C)
